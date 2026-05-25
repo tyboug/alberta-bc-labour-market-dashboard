@@ -1,4 +1,4 @@
-# alberta-bc-labour-market-dashboard# Data Source
+# Data Source
 
 This project uses Statistics Canada labour-force data to analyze employment, unemployment, participation, employment rate, and labour-force trends across Alberta, British Columbia, and Canada.
 

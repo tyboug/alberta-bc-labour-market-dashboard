@@ -29,3 +29,11 @@ Demographic dimensions include:
 - Sex
 - Age group
 - Reference date
+
+### Executive Overview
+
+![Executive Overview](images/overview_page.png)
+
+### Age and Gender Breakdown
+
+![Age and Gender Breakdown](images/demographic_breakdown.png)
